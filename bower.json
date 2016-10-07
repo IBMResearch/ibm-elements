@@ -1,0 +1,15 @@
+{
+  "name": "ibm-elements",
+  "description": "A collection of elements made by the IBM Research team",
+  "authors": [
+    "The IBM Research Emergent Solutions authors"
+  ],
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "https://ibmresearch.github.io/LICENSE.txt",
+  "dependencies": {
+    "ibm-toolbar": "IBMResearch/ibm-toolbar"
+  },
+  "private": true
+}
