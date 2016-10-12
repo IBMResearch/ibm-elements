@@ -9,6 +9,7 @@
   ],
   "license": "https://ibmresearch.github.io/LICENSE.txt",
   "dependencies": {
+    "ibm-tabs": "IBMResearch/ibm-tabs",
     "ibm-toolbar": "IBMResearch/ibm-toolbar"
   },
   "private": true
